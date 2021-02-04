@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2021-02-04T09:32:49.279Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" version="13.9.9" etag="IRvssyhKYkzvMbFanlmT" type="github"><diagram id="jTiUC8EJ0isUZAk2S-5C">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-04T10:57:26.220Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="RBHcup36i6Wou7VswfS1" version="13.9.9" type="github">
+  <diagram id="jTiUC8EJ0isUZAk2S-5C" name="Page-1">
+    <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Qn6LXsjBXS8K-YAON7_N-1" value="c端页面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="120" width="120" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Qn6LXsjBXS8K-YAON7_N-3" value="npm" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="190" y="200" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Qn6LXsjBXS8K-YAON7_N-4" value="静态化服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="120" width="120" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Qn6LXsjBXS8K-YAON7_N-5" value="b端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="120" width="120" height="240" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
