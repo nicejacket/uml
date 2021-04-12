@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-12T09:10:00.352Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="rSTl1Cn4A0NkW0iEpxBH" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-12T09:10:43.804Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="Tv1CBmgxciA1KMToEwEq" version="14.2.9" type="github">
   <diagram id="OEEgM5_fH-xbBg2mpcmx" name="Page-1">
     <mxGraphModel dx="1113" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,32 +40,32 @@
         <mxCell id="6Y6k767Hvke-sPqiCbXi-19" value="加载/卸载机制" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="390" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="d-i5TeEIlDbLvMZRRYNr-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6Y6k767Hvke-sPqiCbXi-24" target="6Y6k767Hvke-sPqiCbXi-1">
+        <mxCell id="d-i5TeEIlDbLvMZRRYNr-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6Y6k767Hvke-sPqiCbXi-24" target="6Y6k767Hvke-sPqiCbXi-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d-i5TeEIlDbLvMZRRYNr-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6Y6k767Hvke-sPqiCbXi-24" target="d-i5TeEIlDbLvMZRRYNr-1">
+        <mxCell id="d-i5TeEIlDbLvMZRRYNr-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6Y6k767Hvke-sPqiCbXi-24" target="d-i5TeEIlDbLvMZRRYNr-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6Y6k767Hvke-sPqiCbXi-24" value="插件库" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="690" y="130" width="200" height="420" as="geometry" />
+          <mxGeometry x="690" y="380" width="200" height="420" as="geometry" />
         </mxCell>
         <mxCell id="d-i5TeEIlDbLvMZRRYNr-1" value="B端一站式配置平台" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="960" y="130" width="160" height="420" as="geometry" />
         </mxCell>
         <mxCell id="d-i5TeEIlDbLvMZRRYNr-2" value="插件规范" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="730" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d-i5TeEIlDbLvMZRRYNr-3" value="插件列表" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="705" y="250" width="170" height="290" as="geometry" />
+          <mxGeometry x="705" y="500" width="170" height="290" as="geometry" />
         </mxCell>
         <mxCell id="d-i5TeEIlDbLvMZRRYNr-4" value="流量回收插件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="730" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d-i5TeEIlDbLvMZRRYNr-5" value="js插件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="730" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d-i5TeEIlDbLvMZRRYNr-6" value="。。。其它插件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="730" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d-i5TeEIlDbLvMZRRYNr-10" value="动态表单规范" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="980" y="170" width="120" height="60" as="geometry" />
