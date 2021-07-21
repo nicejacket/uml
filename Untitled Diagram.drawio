@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-21T09:48:30.389Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="d9ZLb0DNbiyi6-n2qalc" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-21T09:49:27.803Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="zaL79MeZAg7d7FcnqQ9d" version="14.9.0" type="github">
   <diagram id="9-yt2hhoGuYzhfhXb_vu" name="Page-1">
     <mxGraphModel dx="1113" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -120,6 +120,12 @@
             <mxPoint x="270" y="730" as="sourcePoint" />
             <mxPoint x="320" y="680" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-KOCO0Kwgw4JrJA6LpJA-53" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="890" y="480" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="-KOCO0Kwgw4JrJA6LpJA-54" value="后台业务接口服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="916" y="485" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
