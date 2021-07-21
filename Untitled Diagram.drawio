@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-21T06:45:05.960Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="d52AuNDi0aZoyCi25dAy" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-21T06:45:52.803Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="tmX2Oaj9snNdkkRx8bOQ" version="14.9.0" type="github">
   <diagram id="9-yt2hhoGuYzhfhXb_vu" name="Page-1">
     <mxGraphModel dx="1113" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="40" y="150" width="640" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-KOCO0Kwgw4JrJA6LpJA-2" value="落地页" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="40" y="350" width="210" height="300" as="geometry" />
+          <mxGeometry x="40" y="350" width="210" height="340" as="geometry" />
         </mxCell>
         <mxCell id="-KOCO0Kwgw4JrJA6LpJA-3" value="SSR" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="470" y="360" width="210" height="330" as="geometry" />
@@ -51,6 +51,12 @@
         </mxCell>
         <mxCell id="-KOCO0Kwgw4JrJA6LpJA-17" value="。。。其他增强型功能插件" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="490" y="610" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-KOCO0Kwgw4JrJA6LpJA-18" value="CSR渲染" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="60" y="400" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-KOCO0Kwgw4JrJA6LpJA-19" value="SSR注水" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="60" y="470" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
