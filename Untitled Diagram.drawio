@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-21T06:21:53.253Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="jREzdpzsijAJSrUn1jBN" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-21T06:24:13.300Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="gc6WqmrYhwSlK23PJjmP" version="14.9.0" type="github">
   <diagram id="9-yt2hhoGuYzhfhXb_vu" name="Page-1">
     <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -12,6 +12,12 @@
         </mxCell>
         <mxCell id="-KOCO0Kwgw4JrJA6LpJA-3" value="SSR" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="460" y="230" width="210" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="-KOCO0Kwgw4JrJA6LpJA-4" value="沙箱" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="480" y="280" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-KOCO0Kwgw4JrJA6LpJA-5" value="流量控制" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="480" y="350" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
