@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-07-21T06:31:12.005Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="DdZnIjM9DyyJBz1Jrc5q" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-21T06:31:34.981Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="6--GxlOkwyQAbxhfi2EQ" version="14.9.0" type="github">
   <diagram id="9-yt2hhoGuYzhfhXb_vu" name="Page-1">
     <mxGraphModel dx="1113" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-KOCO0Kwgw4JrJA6LpJA-1" value="Nginx" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-KOCO0Kwgw4JrJA6LpJA-1" value="Nginx&lt;br&gt;处理SSR及CSR的兼容" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="150" width="640" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-KOCO0Kwgw4JrJA6LpJA-2" value="落地页" style="rounded=1;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
